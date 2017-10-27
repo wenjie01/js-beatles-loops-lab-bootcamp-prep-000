@@ -15,3 +15,12 @@ function johnLennonFacts(facts) {
   }
   return arrays;
 }
+
+function iLoveTheBeatles(number){
+  var item =[];
+  var i = 0;
+  do {
+    item.push('I love the Bealtes!');
+  }
+  while ([condition]);
+}
